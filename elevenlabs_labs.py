@@ -1,0 +1,2 @@
+API_KEY = "XXXX"
+VOICE_ID = "XXXX"
